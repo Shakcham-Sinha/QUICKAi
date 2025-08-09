@@ -1,0 +1,3 @@
+[submodule "QuickAI"]
+	path = QuickAI
+	url = https://github.com/Shakcham-Sinha/QuickAI.git
